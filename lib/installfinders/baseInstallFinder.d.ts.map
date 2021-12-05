@@ -1,0 +1,1 @@
+{"version":3,"file":"baseInstallFinder.d.ts","sourceRoot":"","sources":["../../src/installfinders/baseInstallFinder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,wBAAwB,CAAC;AAE7D,MAAM,WAAW,iBAAiB;IAChC,QAAQ,EAAE,KAAK,CAAC,mBAAmB,CAAC,CAAC;IACrC,eAAe,EAAE,KAAK,CAAC,MAAM,CAAC,CAAC;CAChC;AAED,wBAAgB,uBAAuB,CAAC,GAAG,KAAK,EAAE,iBAAiB,EAAE,GAAG,iBAAiB,CAKxF"}
